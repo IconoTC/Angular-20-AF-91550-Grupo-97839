@@ -1,0 +1,8 @@
+alumnos: any[] = [
+    {nombre: 'Juan', apellido: 'Lopez', nota: 7.5},
+    {nombre: 'Maria', apellido: 'Sanchez', nota: 6.3},
+    {nombre: 'Pedro', apellido: 'Rodriguez', nota: 3.9},
+    {nombre: 'Elena', apellido: 'Arias', nota: 5.4},
+    {nombre: 'Jorge', apellido: 'Martin', nota: 2.8},
+    {nombre: 'Susana', apellido: 'Gonalez', nota: 9.3}
+  ];
